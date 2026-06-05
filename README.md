@@ -30,8 +30,18 @@ This extension includes 4 distinct themes to suit your contrast preferences:
 2. Search for `Monokai Too Vibrant`
 3. Click **Install**
 4. Click **Reload** (if required)
-5. Go to `Set color theme` and select your favorite variant!
+5. Go to `Preferences → Color Theme` (`Ctrl+K Ctrl+T` or `Cmd+K Cmd+T`) and select your favorite variant!
 
 Alternatively, install via the command line:
 ```bash
 ext install TMaume.monokai-too-vibrant
+
+```
+
+## 🐛 Issues & Contributions
+
+Found a bug, missing syntax highlighting, or have a suggestion? Feel free to open an issue or submit a pull request on the [GitHub Repository](https://github.com/TMaume/Monokai-Too-Vibrant).
+
+## 📝 License
+
+This theme is released under the [MIT License](https://opensource.org/licenses/MIT).
