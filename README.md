@@ -18,10 +18,10 @@ This extension includes 4 distinct themes to suit your contrast preferences:
 
 ## 📸 Screenshots
 
-![Monokai Too Vibrant](images/dark-too-vibrant.png)
+![Monokai Too Vibrant](./Images/dark-too-vibrant.png)
 *Monokai Too Vibrant*
 
-![Monokai Light Very Vibrant](images/light-very-vibrant.png)
+![Monokai Light Very Vibrant](./Images/light-very-vibrant.png)
 *Monokai Light Very Vibrant*
 
 ## 🙌 Acknowledgements
