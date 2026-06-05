@@ -4,6 +4,7 @@
   "description": "Un thème Monokai ultra contrasté décliné en plusieurs variantes (Dark, Light, Very Vibrant).",
   "version": "1.1.0",
   "publisher": "TMaume",
+  "icon": "Monokai Too Vibrant.png",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -15,22 +16,22 @@
       {
         "label": "Monokai Too Vibrant",
         "uiTheme": "vs-dark",
-        "path": "./Monokai Too Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Too Vibrant-color-theme.json"
       },
       {
         "label": "Monokai Very Vibrant",
         "uiTheme": "vs-dark",
-        "path": "./Monokai Very Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Very Vibrant-color-theme.json"
       },
       {
         "label": "Monokai Light Too Vibrant",
         "uiTheme": "vs",
-        "path": "./Monokai Light Too Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Light Too Vibrant-color-theme.json"
       },
       {
         "label": "Monokai Light Very Vibrant",
         "uiTheme": "vs",
-        "path": "./Monokai Light Very Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Light Very Vibrant-color-theme.json"
       }
     ]
   },

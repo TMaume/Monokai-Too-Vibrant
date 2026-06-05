@@ -24,13 +24,17 @@ This extension includes 4 distinct themes to suit your contrast preferences:
 ![Monokai Light Very Vibrant](images/light-very-vibrant.png)
 *Monokai Light Very Vibrant*
 
+## 🙌 Acknowledgements
+
+This extension is a heavily modified, high-contrast fork based on the excellent [Monokai Vibrant](https://github.com/dylantmarsh/monokai-vibrant) theme created by [Dylan Marsh](https://github.com/dylantmarsh).
+
 ## 🚀 Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 2. Search for `Monokai Too Vibrant`
 3. Click **Install**
 4. Click **Reload** (if required)
-5. Go to `Preferences → Color Theme` (`Ctrl+K Ctrl+T` or `Cmd+K Cmd+T`) and select your favorite variant!
+5. Go to `Set Color Theme`) and select your favorite variant!
 
 Alternatively, install via the command line:
 ```bash
