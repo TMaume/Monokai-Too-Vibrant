@@ -2,7 +2,7 @@
   "name": "monokai-too-vibrant",
   "displayName": "Monokai Too Vibrant",
   "description": "An ultra-high contrast take on the Monokai Vibrant theme, featuring pure blacks and maximally saturated colors.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "TMaume",
   "icon": "./Images/Monokai-Too-Vibrant.png",
   "engines": {
@@ -14,14 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Too Vibrant",
+        "label": "Monokai Dark Too Vibrant",
         "uiTheme": "vs-dark",
-        "path": "./Themes/Monokai Too Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Dark Too Vibrant-color-theme.json"
       },
       {
-        "label": "Monokai Very Vibrant",
+        "label": "Monokai Dark Very Vibrant",
         "uiTheme": "vs-dark",
-        "path": "./Themes/Monokai Very Vibrant-color-theme.json"
+        "path": "./Themes/Monokai Dark Very Vibrant-color-theme.json"
       },
       {
         "label": "Monokai Light Too Vibrant",
