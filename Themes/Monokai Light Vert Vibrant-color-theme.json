@@ -368,7 +368,7 @@
     "tab.activeBorderTop": "#005BD6",
     "tab.inactiveBackground": "#F6F8FA",
     "titleBar.activeBackground": "#F5F6F8",
-    "titleBar.activeForeground": "#111111",
+    "titleBar.activeForeground": "#111111", 
     "titleBar.inactiveBackground": "#FDFDFD",
     "titleBar.inactiveForeground": "#6A737D",
     "editorInlayHint.foreground": "#6A737D",
