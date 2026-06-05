@@ -2,9 +2,9 @@
   "name": "monokai-too-vibrant",
   "displayName": "Monokai Too Vibrant",
   "description": "An ultra-high contrast take on the Monokai Vibrant theme, featuring pure blacks and maximally saturated colors.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "TMaume",
-  "icon": "./Images/Monokai Too Vibrant.png",
+  "icon": "./Images/Monokai-Too-Vibrant.png",
   "engines": {
     "vscode": "^1.80.0"
   },
