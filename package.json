@@ -1,0 +1,26 @@
+{
+  "name": "monokai-too-vibrant",
+  "displayName": "Monokai Too Vibrant",
+  "description": "Un thème Monokai ultra contrasté avec un noir pur et des couleurs vibrantes.",
+  "version": "1.0.0",
+  "publisher": "TMaume",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Too Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./Monokai Too Vibrant-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMaume/Monokai-Too-Vibrant"
+  }
+}
